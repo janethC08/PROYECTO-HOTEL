@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\bin\Debug\HotelElSol.exe.config
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\bin\Debug\HotelElSol.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\bin\Debug\HotelElSol.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\bin\Debug\mysql.data.dll
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.LoginForm.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.MenuPrincipal.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.RegistrarHabitacion.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.ConsultaHabitaciones.resources
