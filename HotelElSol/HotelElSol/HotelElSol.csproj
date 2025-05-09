@@ -54,6 +54,18 @@
     <Compile Include="ConsultaHabitaciones.Designer.cs">
       <DependentUpon>ConsultaHabitaciones.cs</DependentUpon>
     </Compile>
+    <Compile Include="Facturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturacion.Designer.cs">
+      <DependentUpon>Facturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionHuespedes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionHuespedes.Designer.cs">
+      <DependentUpon>GestionHuespedes.cs</DependentUpon>
+    </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,8 +86,20 @@
     <Compile Include="RegistrarHabitacion.Designer.cs">
       <DependentUpon>RegistrarHabitacion.cs</DependentUpon>
     </Compile>
+    <Compile Include="SalidaHuesped.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalidaHuesped.Designer.cs">
+      <DependentUpon>SalidaHuesped.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="ConsultaHabitaciones.resx">
       <DependentUpon>ConsultaHabitaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturacion.resx">
+      <DependentUpon>Facturacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionHuespedes.resx">
+      <DependentUpon>GestionHuespedes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
@@ -94,6 +118,9 @@
     </Compile>
     <EmbeddedResource Include="RegistrarHabitacion.resx">
       <DependentUpon>RegistrarHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalidaHuesped.resx">
+      <DependentUpon>SalidaHuesped.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

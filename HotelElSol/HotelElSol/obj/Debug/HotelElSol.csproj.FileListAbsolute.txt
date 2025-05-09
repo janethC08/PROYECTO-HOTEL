@@ -11,3 +11,18 @@ C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debu
 C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.pdb
 C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.RegistrarHabitacion.resources
 C:\Users\PC\Documents\Visual Studio 2012\Projects\HotelElSol\HotelElSol\obj\Debug\HotelElSol.ConsultaHabitaciones.resources
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\bin\Debug\HotelElSol.exe.config
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.exe
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.pdb
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\bin\Debug\HotelElSol.exe
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\bin\Debug\HotelElSol.pdb
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.ConsultaHabitaciones.resources
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.LoginForm.resources
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.MenuPrincipal.resources
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.RegistrarHabitacion.resources
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.Facturacion.resources
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.SalidaHuesped.resources
+C:\Users\PC\Documents\GitHub\PROYECTO-HOTEL\HotelElSol\HotelElSol\obj\Debug\HotelElSol.GestionHuespedes.resources

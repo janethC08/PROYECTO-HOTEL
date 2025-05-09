@@ -75,6 +75,7 @@
             this.btnSalidaHuesped.TabIndex = 3;
             this.btnSalidaHuesped.Text = "Salida Huesped";
             this.btnSalidaHuesped.UseVisualStyleBackColor = true;
+            this.btnSalidaHuesped.Click += new System.EventHandler(this.btnSalidaHuesped_Click);
             // 
             // btnFacturar
             // 
@@ -84,6 +85,7 @@
             this.btnFacturar.TabIndex = 4;
             this.btnFacturar.Text = "Facturar";
             this.btnFacturar.UseVisualStyleBackColor = true;
+            this.btnFacturar.Click += new System.EventHandler(this.btnFacturar_Click);
             // 
             // btnUsuarios
             // 
@@ -93,6 +95,7 @@
             this.btnUsuarios.TabIndex = 5;
             this.btnUsuarios.Text = "Usuarios";
             this.btnUsuarios.UseVisualStyleBackColor = true;
+            this.btnUsuarios.Click += new System.EventHandler(this.btnUsuarios_Click);
             // 
             // btnSalir
             // 
@@ -102,6 +105,7 @@
             this.btnSalir.TabIndex = 6;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
             // MenuPrincipal
             // 

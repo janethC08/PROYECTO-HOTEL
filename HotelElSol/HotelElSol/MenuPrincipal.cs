@@ -33,5 +33,28 @@ namespace HotelElSol
             RegistrarHabitacion form = new RegistrarHabitacion();
             form.ShowDialog();
         }
+
+        private void btnSalidaHuesped_Click(object sender, EventArgs e)
+        {
+            SalidaHuesped consulta = new SalidaHuesped();
+            consulta.ShowDialog();
+                
+        }
+
+        private void btnFacturar_Click(object sender, EventArgs e)
+        {
+            Facturacion form = new Facturacion();
+            form.ShowDialog();
+        }
+
+        private void btnUsuarios_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
